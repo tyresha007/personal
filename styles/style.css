@@ -1,0 +1,47 @@
+body{
+    background-image: url("../images/tyresha0.JPG");
+}
+.lol {
+    background-image:url("../images/tyresha2.png");
+}
+.btn1{
+  
+ 
+  background-color: hotpink;
+  border: none;
+  color: gold;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 10px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+p {
+    font-family: "times new romen";
+    font-size:25px;
+    color: gold;
+    padding:20px;
+    border: ridge 5px pink;
+    margin: auto;
+}
+
+.pp{ 
+    background-color: hotpink;
+    color:gold;
+}
+
+.name {
+  font-family: 'Indie Flower', cursive;
+  color: purple;
+  font-size: 200px;
+  text-align: center;
+}
+.title{
+     font-family: 'Indie Flower', cursive;
+  color: purple;
+  font-size: 100px;
+  text-align: center;
+}
+    
+}
